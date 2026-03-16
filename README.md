@@ -6,6 +6,6 @@
 created only for base contracts
 s
  5s
-ss
+sss
 ss
 s
